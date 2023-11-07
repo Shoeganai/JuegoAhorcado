@@ -5,3 +5,4 @@ Se ha añadido un footer con los nombres de los particiantes.
 
 Se cambió el estilo del primer botón para que se diferencie del botón para añadir comentarios.
 
+Créditos a Pablo Monteserrín y su vídeo utilizado como guía: https://www.youtube.com/watch?v=mn07nxUXoPA
